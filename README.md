@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Myself Atharva Patankar <br>👯 Fullstack Developer <br>🤝 Space Enthusiast <br>
+🔭 Myself Atharva Patankar <br>👯 Fullstack Developer <br>🪐 Space Enthusiast <br>🎓 Computer Science Student at Somaiya <br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvapatankar) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/xNqva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharvapatankar24@gmail.com) 
